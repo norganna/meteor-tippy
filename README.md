@@ -18,7 +18,7 @@ Simply add &lt;... class="tippy" data-tooltip="html code here"&gt;
 ## Example
 
     <head>
-      <title>TF2WH Admin</title>
+      <title>Example</title>
     </head>
     
     <body>
